@@ -1,0 +1,3 @@
+﻿  Source.cpp
+D:\2021\lectures\lecture 9\XO\XO\Source.cpp(145,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  XO.vcxproj -> D:\2021\lectures\lecture 9\XO\x64\Debug\XO.exe
